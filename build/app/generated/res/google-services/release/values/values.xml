@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">150944371876-inqosn93jm5sanjvq2f1s5hbvrkvmn5m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">150944371876</string>
+    <string name="google_api_key" translatable="false">AIzaSyCLNXZT5D3U64rrS708nDei0jC8mTXKZHw</string>
+    <string name="google_app_id" translatable="false">1:150944371876:android:53a9cd461e6388efe74231</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCLNXZT5D3U64rrS708nDei0jC8mTXKZHw</string>
+    <string name="google_storage_bucket" translatable="false">churchapp-chat.appspot.com</string>
+    <string name="project_id" translatable="false">churchapp-chat</string>
+</resources>

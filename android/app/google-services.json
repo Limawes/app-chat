@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150944371876",
+    "project_id": "churchapp-chat",
+    "storage_bucket": "churchapp-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150944371876:android:53a9cd461e6388efe74231",
+        "android_client_info": {
+          "package_name": "com.ChurchApp.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150944371876-inqosn93jm5sanjvq2f1s5hbvrkvmn5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLNXZT5D3U64rrS708nDei0jC8mTXKZHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150944371876-inqosn93jm5sanjvq2f1s5hbvrkvmn5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

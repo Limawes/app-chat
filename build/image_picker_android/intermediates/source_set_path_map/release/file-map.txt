@@ -1,0 +1,14 @@
+io.flutter.plugins.imagepicker.image_picker_android-core-1.8.0-0 /home/wesley/.gradle/caches/transforms-3/36645dad4856a45a63618a9e4f104845/transformed/core-1.8.0/res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.3.1-1 /home/wesley/.gradle/caches/transforms-3/3f72585791551b99ffe7042bd9a470de/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.0.0-beta04-2 /home/wesley/.gradle/caches/transforms-3/40ff8c014bc3b03149787e1d45a42dea/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.1.0-3 /home/wesley/.gradle/caches/transforms-3/a6362f1fb79a6245a27920bb99ff99c3/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.0.0-beta04-4 /home/wesley/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.imagepicker.image_picker_android-main-5 /home/wesley/.pub-cache/hosted/pub.dev/image_picker_android-0.8.5+7/android/src/main/res
+io.flutter.plugins.imagepicker.image_picker_android-release-6 /home/wesley/.pub-cache/hosted/pub.dev/image_picker_android-0.8.5+7/android/src/release/res
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-7 /home/wesley/Desktop/Flutter/chat/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-8 /home/wesley/Desktop/Flutter/chat/build/image_picker_android/generated/res/pngs/release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-9 /home/wesley/Desktop/Flutter/chat/build/image_picker_android/generated/res/resValues/release
+io.flutter.plugins.imagepicker.image_picker_android-rs-10 /home/wesley/Desktop/Flutter/chat/build/image_picker_android/generated/res/rs/release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-11 /home/wesley/Desktop/Flutter/chat/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-12 /home/wesley/Desktop/Flutter/chat/build/image_picker_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-13 /home/wesley/Desktop/Flutter/chat/build/image_picker_android/intermediates/merged_res/release
