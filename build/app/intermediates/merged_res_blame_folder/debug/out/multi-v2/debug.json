@@ -1017,7 +1017,7 @@
             "outputFile": "com.example.chat.app-merged_res-19:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/home/wesley/Desktop/Flutter/chat/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/wesley/Desktop/Meus Arquivos/app-chat/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -4044,42 +4044,6 @@
                     }
                 },
                 {
-                    "source": "/home/wesley/Desktop/Flutter/chat/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,818",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "476,982"
-                    },
-                    "to": {
-                        "startLines": "139,143",
-                        "startColumns": "4,4",
-                        "startOffsets": "10116,10297",
-                        "endLines": "142,145",
-                        "endColumns": "12,12",
-                        "endOffsets": "10292,10461"
-                    }
-                },
-                {
-                    "source": "/home/wesley/Desktop/Flutter/chat/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,712",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "194,276,380,489,609,707,782"
-                    },
-                    "to": {
-                        "startLines": "127,132,133,134,135,136,137",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "9016,9457,9539,9643,9752,9872,9970",
-                        "endColumns": "143,81,103,108,119,97,74",
-                        "endOffsets": "9155,9534,9638,9747,9867,9965,10040"
-                    }
-                },
-                {
                     "source": "/home/wesley/.gradle/caches/transforms-3/d5c0f05874ca6ff7d5413cbac919f2e7/transformed/jetified-firebase-messaging-23.1.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -4169,6 +4133,23 @@
                     }
                 },
                 {
+                    "source": "/home/wesley/Desktop/Meus Arquivos/app-chat/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,712",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "194,276,380,489,609,707,782"
+                    },
+                    "to": {
+                        "startLines": "127,132,133,134,135,136,137",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "9016,9457,9539,9643,9752,9872,9970",
+                        "endColumns": "143,81,103,108,119,97,74",
+                        "endOffsets": "9155,9534,9638,9747,9867,9965,10040"
+                    }
+                },
+                {
                     "source": "/home/wesley/.gradle/caches/transforms-3/3f72585791551b99ffe7042bd9a470de/transformed/lifecycle-runtime-2.3.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -4183,6 +4164,25 @@
                         "startOffsets": "6434",
                         "endColumns": "42",
                         "endOffsets": "6472"
+                    }
+                },
+                {
+                    "source": "/home/wesley/Desktop/Meus Arquivos/app-chat/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,818",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,982"
+                    },
+                    "to": {
+                        "startLines": "139,143",
+                        "startColumns": "4,4",
+                        "startOffsets": "10116,10297",
+                        "endLines": "142,145",
+                        "endColumns": "12,12",
+                        "endOffsets": "10292,10461"
                     }
                 }
             ]

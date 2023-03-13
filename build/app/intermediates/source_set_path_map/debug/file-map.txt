@@ -9,19 +9,19 @@ com.example.chat.app-browser-1.4.0-7 /home/wesley/.gradle/caches/transforms-3/c1
 com.example.chat.app-jetified-firebase-messaging-23.1.1-8 /home/wesley/.gradle/caches/transforms-3/d5c0f05874ca6ff7d5413cbac919f2e7/transformed/jetified-firebase-messaging-23.1.1/res
 com.example.chat.app-jetified-firebase-common-20.3.0-9 /home/wesley/.gradle/caches/transforms-3/dbca14ae8831d3272c2dc3ee92f824c5/transformed/jetified-firebase-common-20.3.0/res
 com.example.chat.app-jetified-window-java-1.0.0-beta04-10 /home/wesley/.gradle/caches/transforms-3/ed438543a8e9ffa856a2b095c92f0ea3/transformed/jetified-window-java-1.0.0-beta04/res
-com.example.chat.app-debug-11 /home/wesley/Desktop/Flutter/chat/android/app/src/debug/res
-com.example.chat.app-main-12 /home/wesley/Desktop/Flutter/chat/android/app/src/main/res
-com.example.chat.app-google-services-13 /home/wesley/Desktop/Flutter/chat/build/app/generated/res/google-services/debug
-com.example.chat.app-pngs-14 /home/wesley/Desktop/Flutter/chat/build/app/generated/res/pngs/debug
-com.example.chat.app-resValues-15 /home/wesley/Desktop/Flutter/chat/build/app/generated/res/resValues/debug
-com.example.chat.app-rs-16 /home/wesley/Desktop/Flutter/chat/build/app/generated/res/rs/debug
-com.example.chat.app-mergeDebugResources-17 /home/wesley/Desktop/Flutter/chat/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
-com.example.chat.app-mergeDebugResources-18 /home/wesley/Desktop/Flutter/chat/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
-com.example.chat.app-merged_res-19 /home/wesley/Desktop/Flutter/chat/build/app/intermediates/merged_res/debug
-com.example.chat.app-packaged_res-20 /home/wesley/Desktop/Flutter/chat/build/cloud_firestore/intermediates/packaged_res/debug
-com.example.chat.app-packaged_res-21 /home/wesley/Desktop/Flutter/chat/build/firebase_auth/intermediates/packaged_res/debug
-com.example.chat.app-packaged_res-22 /home/wesley/Desktop/Flutter/chat/build/firebase_core/intermediates/packaged_res/debug
-com.example.chat.app-packaged_res-23 /home/wesley/Desktop/Flutter/chat/build/firebase_messaging/intermediates/packaged_res/debug
-com.example.chat.app-packaged_res-24 /home/wesley/Desktop/Flutter/chat/build/firebase_storage/intermediates/packaged_res/debug
-com.example.chat.app-packaged_res-25 /home/wesley/Desktop/Flutter/chat/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
-com.example.chat.app-packaged_res-26 /home/wesley/Desktop/Flutter/chat/build/image_picker_android/intermediates/packaged_res/debug
+com.example.chat.app-debug-11 /home/wesley/Desktop/Meus Arquivos/app-chat/android/app/src/debug/res
+com.example.chat.app-main-12 /home/wesley/Desktop/Meus Arquivos/app-chat/android/app/src/main/res
+com.example.chat.app-google-services-13 /home/wesley/Desktop/Meus Arquivos/app-chat/build/app/generated/res/google-services/debug
+com.example.chat.app-pngs-14 /home/wesley/Desktop/Meus Arquivos/app-chat/build/app/generated/res/pngs/debug
+com.example.chat.app-resValues-15 /home/wesley/Desktop/Meus Arquivos/app-chat/build/app/generated/res/resValues/debug
+com.example.chat.app-rs-16 /home/wesley/Desktop/Meus Arquivos/app-chat/build/app/generated/res/rs/debug
+com.example.chat.app-mergeDebugResources-17 /home/wesley/Desktop/Meus Arquivos/app-chat/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.chat.app-mergeDebugResources-18 /home/wesley/Desktop/Meus Arquivos/app-chat/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.chat.app-merged_res-19 /home/wesley/Desktop/Meus Arquivos/app-chat/build/app/intermediates/merged_res/debug
+com.example.chat.app-packaged_res-20 /home/wesley/Desktop/Meus Arquivos/app-chat/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.chat.app-packaged_res-21 /home/wesley/Desktop/Meus Arquivos/app-chat/build/firebase_auth/intermediates/packaged_res/debug
+com.example.chat.app-packaged_res-22 /home/wesley/Desktop/Meus Arquivos/app-chat/build/firebase_core/intermediates/packaged_res/debug
+com.example.chat.app-packaged_res-23 /home/wesley/Desktop/Meus Arquivos/app-chat/build/firebase_messaging/intermediates/packaged_res/debug
+com.example.chat.app-packaged_res-24 /home/wesley/Desktop/Meus Arquivos/app-chat/build/firebase_storage/intermediates/packaged_res/debug
+com.example.chat.app-packaged_res-25 /home/wesley/Desktop/Meus Arquivos/app-chat/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.chat.app-packaged_res-26 /home/wesley/Desktop/Meus Arquivos/app-chat/build/image_picker_android/intermediates/packaged_res/debug
